@@ -1,4 +1,4 @@
-## Hello! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+# Hello! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="28px">
 
 I am Ayush Kumar, currently pursuing my bachelor's degree in computer science. I am a tech enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
@@ -15,18 +15,25 @@ I am Ayush Kumar, currently pursuing my bachelor's degree in computer science. I
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ## Coding Stats
+
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-## Github Usage ~ Status 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamayushkr&theme=tokyonight&count_private=true)
+## Github Usage
 
-![Aemie's github stats](https://github-readme-stats.aemiej.vercel.app/api?username=iamayushkr&show_icons=true&hide_border=true&theme=tokyonight&private=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamayushkr&theme=tokyonight&count_private=true" alt="GitHub Streak"/>
+  </p>
 
-## Language Usage ~ Status
-![Top Langs](https://github-readme-stats.aemiej.vercel.app/api/top-langs/?username=iamayushkr&layout=compact&theme=tokyonight&show_icons=true&hide_border=true&private=true)
+<p align="center">
+  <img src="https://github-readme-stats.aemiej.vercel.app/api?username=iamayushkr&show_icons=true&hide_border=true&theme=tokyonight&private=true" alt="Aemie's github stats"/>
+</p>
 
-![](https://komarev.com/ghpvc/?username=iamayushkr&color=green)
+## Language Usage
+
+<p align="center">
+  <img src="https://github-readme-stats.aemiej.vercel.app/api/top-langs/?username=iamayushkr&layout=compact&theme=tokyonight&show_icons=true&hide_border=true&private=true" alt="Top Langs"/>
+  </p>
