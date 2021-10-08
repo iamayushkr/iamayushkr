@@ -14,7 +14,7 @@ I am Ayush Kumar, currently pursuing my bachelor's degree in computer science. I
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-##Coding Stats
+## Coding Stats
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
