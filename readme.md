@@ -4,9 +4,10 @@ I am Ayush Kumar, currently pursuing my bachelor's degree in computer science. I
 
 ## Contact Me
 [![Linkedin Badge](https://img.shields.io/badge/-iamayushkr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iamayushkr/)](https://www.linkedin.com/in/iamayushkr/)
+[![Twitter Badge](https://img.shields.io/badge/-iamayushkr-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/iamayushkr)](https://twitter.com/iamayushkr)
 [![Instagram Badge](https://img.shields.io/badge/-iamayushkr-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/iamayushkr/)](https://www.instagram.com/iamayushkr/)
 [![Gmail Badge](https://img.shields.io/badge/-kumaraayush2210@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kumaraayush2210749@gmail.com)](mailto:kumaraayush2210@gmail.com)
-
+[![Outlook Badge](https://img.shields.io/badge/-kumaraayush2210@outlook.in-blue?style=flat-square&logo=Microsoft&logoColor=white&link=mailto:kumaraayush2210749@outlook.in)](mailto:kumaraayush2210@outlook.in)
 
 ## Languages and Tools:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
