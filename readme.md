@@ -20,23 +20,9 @@ I am Ayush Kumar, currently pursuing my bachelor's degree in computer science. I
 ![Aemie's github stats](https://github-readme-stats.aemiej.vercel.app/api?username=iamayushkr&show_icons=true&hide_border=true&theme=tokyonight&private=true)
 
 <!--START_SECTION:waka-->
-name: Waka Readme
-
-on:
-  workflow_dispatch:
-  schedule:
-    # Runs at 12am UTC
-    - cron: "0 0 * * *"
-
-jobs:
-  update-readme:
-    name: Update this repo's README
-    runs-on: ubuntu-latest
-    steps:
-      - uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.71e7a04f-894d-472f-afa3-a1974ecfc992}}
-
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 ## Language Usage ~ Status
