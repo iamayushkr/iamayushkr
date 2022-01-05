@@ -29,8 +29,7 @@ I am Ayush Kumar, currently pursuing my bachelor's degree in computer science. I
 
 <!--START_SECTION:waka-->
 ```text
-PHP      4 mins          ████████████████░░░░░░░░░   63.54 % 
-Python   2 mins          █████████░░░░░░░░░░░░░░░░   36.46 % 
+PHP   4 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
