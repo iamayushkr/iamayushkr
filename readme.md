@@ -35,7 +35,7 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iamayushkr)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iamayushkr)]
 
 ## Github Usage
 
