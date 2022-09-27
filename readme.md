@@ -40,8 +40,6 @@ HTML         0 secs          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iamayushkr)
-
 ## Github Usage
 
 <p align="center">
