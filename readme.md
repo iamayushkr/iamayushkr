@@ -30,7 +30,8 @@ I am Ayush Kumar, currently pursuing my bachelor's degree in computer science. I
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   3 mins          █████████████████████████   100.00 %
+Java         13 mins         ████████████████████░░░░░   80.39 %
+JavaScript   3 mins          █████░░░░░░░░░░░░░░░░░░░░   19.61 %
 ```
 
 <!--END_SECTION:waka-->
